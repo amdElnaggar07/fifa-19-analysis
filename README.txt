@@ -1,7 +1,7 @@
 Data: FIFA 19 DATASET.
 SOURCE: https://www.kaggle.com/karangadiya/fifa19. 
 
-**This project originally has been excuted for udacity Advanced Data Analysis Nanodegree**
+**This project originally has been executed for udacity Advanced Data Analysis Nanodegree**
 
 SUMMARY OF FINDINGS;-
 -------------------For Univariant Approach-----------------------------
