@@ -3,7 +3,7 @@ SOURCE: https://www.kaggle.com/karangadiya/fifa19.
 
 SUMMARY OF FINDINGS;-
 -------------------For Univariant Approach-----------------------------
--> Intuitive normal distribution for Age, Weight, Height of the player.
+-> Intuitive normal distribution for Age, Weight, and Height of the player.
 -> A skewed right distribution for wages.
 -> Found exciting top 10 facts from data for players and clubs.
 -------------------For Bivariant Approach-----------------------------
