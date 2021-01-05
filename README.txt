@@ -33,3 +33,4 @@ KEY INSIGHTS;-
 -> For most paying clubs, Juventus comes first, then Barcelona and Real Madrid and Roma comes the last!.
 -> Left legged players at Left Forward positions have the higher performance values!
 -> We could Notice that low stamina rates are observed at high weights and heights!
+                             •    •    •
