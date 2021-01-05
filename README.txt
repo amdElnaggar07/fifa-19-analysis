@@ -19,7 +19,7 @@ soccer abilities.
 -> A relation between Weight, Height, and Stamina Rate.
 -> No relation Between Heading Accuracy, Height, and Jumping.
 
-KEY INSIGHTS;
+KEY INSIGHTS;-
 -> Most of players have between 20 to 25 yrs.
 -> Weights are normally distributed binomially around 150lbs and 175lbs.
 -> we got over 4,000 player with height around 160cms, on the other hand a lot of players
